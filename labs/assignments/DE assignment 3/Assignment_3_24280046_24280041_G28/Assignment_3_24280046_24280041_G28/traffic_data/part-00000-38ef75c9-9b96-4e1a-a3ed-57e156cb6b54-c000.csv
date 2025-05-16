@@ -1,0 +1,2 @@
+sensor_id,timestamp,vehicle_count,average_speed,congestion_level
+S104,2025-03-28T18:00:24,41,53.94,HIGH
